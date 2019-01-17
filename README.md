@@ -1,4 +1,4 @@
-# CRUD_Operation_Without_Front-End_Using_Spring Boot_Postman_Unit Testing_Cobertura
+# CRUD_Operations_Without_Front-End_Using_Spring Boot_Postman_Unit Testing_Cobertura
 # Description:
 
 Company(Hashworks IT Services Private Limited)_Internship_Project.
