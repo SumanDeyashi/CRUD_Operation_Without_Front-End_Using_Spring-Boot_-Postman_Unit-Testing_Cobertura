@@ -8,4 +8,3 @@ Download all files and put it in one folder. After that, Build and Run Spring Bo
 Technology Used: Java, Spring Boot, Maven, Postman.
 
 Duration: Oct, 2018 to Nov, 2018.
-sss
